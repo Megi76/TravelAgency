@@ -15,7 +15,7 @@ import Regions from './components/views/Regions/RegionsContainer';
 import Trip from './components/views/Trip/TripContainer';
 
 import {AnimatedSwitch} from 'react-router-transition';
-import styles from './styles/global.scss';
+import styles from './App.scss';
 
 import parseTrips from './utils/parseTrips';
 import {setMultipleStates} from './redux/globalRedux';
