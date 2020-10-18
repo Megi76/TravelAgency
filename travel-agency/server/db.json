@@ -1,0 +1,94 @@
+{
+  "orders": [
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "",
+      "contact": "",
+      "start-date": "",
+      "totalCost": "$52,181",
+      "id": 1
+    },
+    {
+      "car-rental": "",
+      "accommodation": "house",
+      "features": [
+        "security",
+        "pool",
+        "kitchen",
+        "all-inclusive"
+      ],
+      "adults": "2",
+      "children": 0,
+      "name": "Kim",
+      "contact": "787565343",
+      "start-date": "",
+      "totalCost": "$112,162",
+      "id": 2
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "suite",
+      "features": [
+        "security",
+        "pool"
+      ],
+      "adults": 1,
+      "children": "1",
+      "name": "meg",
+      "contact": "34534357",
+      "start-date": "",
+      "totalCost": "$82,621",
+      "id": 3
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "dfdds",
+      "contact": "54564235",
+      "start-date": "",
+      "totalCost": "$52,881",
+      "id": 4
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "security"
+      ],
+      "adults": 1,
+      "children": "1",
+      "name": "dfsf",
+      "contact": "52344242",
+      "start-date": "",
+      "totalCost": "$81,871",
+      "id": 5
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "security",
+        "pool",
+        "kitchen"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "fdhgdgd",
+      "contact": "45346433",
+      "start-date": "",
+      "totalCost": "$56,081",
+      "id": 6
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import OrderOptions from './OrderOptions';
 import DatePicker from 'react-datepicker';
 
 describe('Component OrderOptions', () => {
-  it('should render without error', () => {
+  it('should render with no error', () => {
     expect(() => shallow(<OrderOptions name={'Test name'} type={'dropdown'} />)).toBeTruthy;
   });
 
