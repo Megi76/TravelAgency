@@ -35,4 +35,10 @@ describe('Component Hero', () => {
 
     expect(component.find('HappyHourAd').length).toEqual(1);
   });
+
+  it('should render DaysToSummer', () => {
+    const component = shallow(<Hero titleText='Lorem ipsum' imageSrc='Image path' />);
+
+    expect(component.exists('DaysToSummer')).toEqual(true);
+  });
 });
